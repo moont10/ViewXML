@@ -1,0 +1,9 @@
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\bin\Debug\XmlDiffView.exe
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\bin\Debug\XmlDiffView.pdb
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\bin\Debug\xmldiffpatch.dll
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\bin\Debug\XmlDiffPatch.View.dll
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Debug\VisualXmlDiff.Browser.resources
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Debug\VisualXmlDiff.VisualXmlDiff.resources
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Debug\XmlDiffView.csproj.GenerateResource.Cache
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Debug\XmlDiffView.exe
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Debug\XmlDiffView.pdb

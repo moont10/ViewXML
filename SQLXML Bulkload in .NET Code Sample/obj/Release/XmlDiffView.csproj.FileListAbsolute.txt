@@ -1,0 +1,14 @@
+C:\Users\MoonT\Documents\MSDN\SQLXML Bulkload in .NET Code Sample\bin\Release\XmlDiffView.exe
+C:\Users\MoonT\Documents\MSDN\SQLXML Bulkload in .NET Code Sample\bin\Release\xmldiffpatch.dll
+C:\Users\MoonT\Documents\MSDN\SQLXML Bulkload in .NET Code Sample\bin\Release\XmlDiffPatch.View.dll
+C:\Users\MoonT\Documents\MSDN\SQLXML Bulkload in .NET Code Sample\obj\Release\VisualXmlDiff.Browser.resources
+C:\Users\MoonT\Documents\MSDN\SQLXML Bulkload in .NET Code Sample\obj\Release\VisualXmlDiff.VisualXmlDiff.resources
+C:\Users\MoonT\Documents\MSDN\SQLXML Bulkload in .NET Code Sample\obj\Release\XmlDiffView.csproj.GenerateResource.Cache
+C:\Users\MoonT\Documents\MSDN\SQLXML Bulkload in .NET Code Sample\obj\Release\XmlDiffView.exe
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\bin\Release\XmlDiffView.exe
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\bin\Release\xmldiffpatch.dll
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\bin\Release\XmlDiffPatch.View.dll
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Release\VisualXmlDiff.Browser.resources
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Release\VisualXmlDiff.VisualXmlDiff.resources
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Release\XmlDiffView.csproj.GenerateResource.Cache
+C:\Users\MoonT\Documents\Visual Studio 2012\Projects\ViewXML\SQLXML Bulkload in .NET Code Sample\obj\Release\XmlDiffView.exe
